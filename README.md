@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently working on [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)]
+Currently working on [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
 
 <!--
 **J3rryfan/J3rryfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
